@@ -37,8 +37,6 @@ example of code beauty. Okay...not really.</p>
 </pre>
 
 This outputs:
-<pre>
 <p>My name is Erik and I am an addict. I stay up late into the night marking up <acronym title="Hypertext Markup Language">HTML</acronym> and <acronym title="Cascading Style Sheets">CSS</acronym> with magical alignment.
 Whitespace speaks volumes of my care and finesse of the code. My <acronym title="Really Simple Syndication">RSS</acronym> subscribers wait on their toes for my next
 example of code beauty. Okay...not really.</p>
-</pre>
